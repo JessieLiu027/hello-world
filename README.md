@@ -1,4 +1,4 @@
 # hello-world
 
 
-And I edited it!
+I edited it!
